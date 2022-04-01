@@ -22,6 +22,7 @@ public class HelloWorldController {
         int i4=4;
         System.out.println("master test");
         System.out.println("hot fix test");
+        System.out.println("push test");
 
 
         AtomicReference<String> a;
