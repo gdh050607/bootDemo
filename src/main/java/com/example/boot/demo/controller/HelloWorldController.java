@@ -20,6 +20,7 @@ public class HelloWorldController {
         int i2=2;
         int i3=3;
         int i4=4;
+        System.out.println("master test");
 
 
         AtomicReference<String> a;
