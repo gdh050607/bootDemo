@@ -19,6 +19,8 @@ public class HelloWorldController {
         AtomicInteger i;
         int i2=2;
         int i3=3;
+        int i4=4;
+
 
         AtomicReference<String> a;
         return port;
