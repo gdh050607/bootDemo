@@ -18,6 +18,7 @@ public class HelloWorldController {
         ConcurrentHashMap m =new ConcurrentHashMap();
         AtomicInteger i;
         int i2=2;
+        int i3=3;
 
         AtomicReference<String> a;
         return port;
